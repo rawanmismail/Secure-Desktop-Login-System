@@ -67,5 +67,3 @@ python login_system.py
 * After the system locks (either due to failed attempts or inactivity), you must **enter the correct password** to unlock it again.
 * The **progress bar** will show the remaining lock time during this period.
 
-```
----
