@@ -7,7 +7,7 @@ A **Python-based desktop login system** designed for security and usability, fea
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔑 **Password Authentication** – Unlock the system with a predefined password.  
 - 🚫 **Login Attempts Limit** – Maximum of 3 failed attempts before temporary lockout.  
@@ -18,19 +18,14 @@ A **Python-based desktop login system** designed for security and usability, fea
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - Python 3.7+  
 - No additional libraries required
 
 ---
 
-## 🚀 Getting Started
-Got it! I’ve **reformatted and improved your “How to Run & Use” section** to make it **clearer, properly indented, and easier to follow**, while keeping all the details about login, failed attempts, and auto-lock. Here’s the improved version you can copy directly into your README:
-
-````markdown id="9r6v7d"
-## 🚀 How to Run & Use the Project
-
+##  How to Run & Use the Project
 Follow these steps to run and use the Secure Desktop Login System:
 
 ### 1. Clone the Repository
@@ -73,19 +68,9 @@ python login_system.py
 * The **progress bar** will show the remaining lock time during this period.
 
 ```
-
 ---
 
-✅ **What’s improved:**  
 
-1. Clear **numbered steps** for running the project.  
-2. Subsections with **bold headers** for login, failed attempts, and auto-lock.  
-3. Proper use of code blocks for commands and default password.  
-4. Easy to read and beginner-friendly.  
-
----
-
-If you want, I can **update your full README with this improved section integrated**, so the entire README is **copy-paste-ready and polished** with badges, features, screenshots, and usage instructions.  
 
 Do you want me to do that?
 ```
