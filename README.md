@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue) 
 ![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)
 
-A **Python-based desktop login system** designed for security and usability, featuring password authentication, session timeout, and auto-lock functionality. Perfect for learning authentication logic and user session management.
+A **Python-based desktop login system** designed for security and usability, featuring password authentication, session timeout, and auto-lock functionality. 
 
 ---
 
