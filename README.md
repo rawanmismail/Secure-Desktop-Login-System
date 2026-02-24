@@ -69,9 +69,3 @@ python login_system.py
 
 ```
 ---
-
-
-
-Do you want me to do that?
-```
-ock or failed attempts.
