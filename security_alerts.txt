@@ -1,0 +1,4 @@
+[ALERT] 2026-02-24 10:00:22 - Failed login attempt detected
+[ALERT] 2026-02-24 10:00:28 - Failed login attempt detected
+[ALERT] 2026-02-24 10:00:34 - Failed login attempt detected
+[ALERT] 2026-02-24 10:00:34 - User temporarily blocked due to multiple failed attempts
