@@ -27,8 +27,4 @@ A **Python-based desktop login system** designed for security and usability, fea
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
 
-```bash
-git clone https://github.com/your-username/secure-desktop-login.git
-cd secure-desktop-login
