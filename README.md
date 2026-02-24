@@ -41,7 +41,7 @@ cd secure-desktop-login
 python login_system.py
 ```
 
-### 3. Login Instructions
+### Login Instructions
 
 * **Default password:**
 
@@ -51,18 +51,18 @@ python login_system.py
 * Enter the password in the input field and click **Login**.
 * Click **Show** to toggle password visibility if needed.
 
-### 4. Handling Failed Attempts
+### Handling Failed Attempts
 
 * You have a maximum of **3 attempts** to enter the correct password.
 * After 3 failed attempts, the system will **lock for 10 seconds**.
 * The **progress bar** displays the remaining lockout time.
 
-### 5. Session Timeout / Auto-Lock
+### Session Timeout / Auto-Lock
 
 * If there is **no mouse or keyboard activity for 30 seconds**, the system will **automatically lock**.
 * Move your mouse or press any key to **reset the inactivity timer**.
 
-### 6. Post-Lock / Auto-Lock
+### Post-Lock / Auto-Lock
 
 * After the system locks (either due to failed attempts or inactivity), you must **enter the correct password** to unlock it again.
 * The **progress bar** will show the remaining lock time during this period.
