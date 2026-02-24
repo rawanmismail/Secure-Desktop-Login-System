@@ -31,7 +31,7 @@ Follow these steps to run and use the Secure Desktop Login System:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/secure-desktop-login.git
+git clone https://github.com/rawanmismail/secure-desktop-login.git
 cd secure-desktop-login
 ````
 
